@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#Botao {
+    background-color: brown;
+    border-radius: 5px 5px 5px 5px;
+}
+
+#h1 {
+    color: blue;
+    font-weight: 2000;
+}
+#ol1{
+    padding-left: 20px;
+    margin-top: 20px;
+}
+#p1{
+    margin-top: 10px;
+}
